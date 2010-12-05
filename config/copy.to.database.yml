@@ -1,0 +1,14 @@
+development:
+  adapter: postgres
+  database: imagespellbook_development
+  username: <YOUR_USERNAME>
+  password: <YOUR_PASSWORD>
+  host: localhost
+  
+test:
+  adapter: postgres
+  database: imagespellbook_test
+  username: <YOUR_USERNAME>
+  password: <YOUR_PASSWORD>
+  host: localhost
+
